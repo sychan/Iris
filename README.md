@@ -72,3 +72,4 @@ On the other hand, Iris is a native Fabric mod that uses carefully crafted and p
 * **The Fabric community**, for providing both support and great tooling
 * **JellySquid**, for creating the first actually viable OptiFine alternative (as far as optimizations go)
 * **All past, present, and future contributors to Iris**, for helping the project move along
+
